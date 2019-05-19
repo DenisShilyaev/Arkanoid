@@ -4,7 +4,7 @@ var game = {
 	ctx: undefined, //Для хранения контекста
 	platform: undefined,
 	ball: undefined, 
-	rows: 8,  //Количество строк блоков
+	rows: 6,  //Количество строк блоков
 	cols: 8, // Количество столбцов блоков
 	running: true, //Игра запущена
 	score: 0,
